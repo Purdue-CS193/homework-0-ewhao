@@ -2,7 +2,7 @@
 
 ### Favorite things about CS 193
 - awesome lecturers and TAs :D
-- taught at Purdue University
+- fun chairs in classroom
 - useful and interesting content
 
 ## Welcome to GitHub Pages
